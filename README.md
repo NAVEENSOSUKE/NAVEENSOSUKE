@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="./assets/stella-banner.png"
+     alt="Naveen - Futuristic Developer"
+     width="100%"/>
+
+</div>
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:151538,100:00F7FF&height=230&section=header&text=NAVEEN%20R&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20EXPLORER&descAlignY=60&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+universe;Building+the+future+with+code;Full+Stack+Developer+in+Progress;Exploring+AI+%26+Machine+Learning;Creating+%7C+Learning+%7C+Improving" alt="Typing Animation"/>
