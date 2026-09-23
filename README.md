@@ -1,10 +1,4 @@
-<div align="center">
 
-<img src="./assets/stella-banner.png"
-     alt="Naveen - Futuristic Developer"
-     width="100%"/>
-
-</div>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:151538,100:00F7FF&height=230&section=header&text=NAVEEN%20R&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20EXPLORER&descAlignY=60&descSize=16" width="100%"/>
