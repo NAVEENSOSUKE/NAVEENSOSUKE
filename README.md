@@ -1,295 +1,158 @@
+
 <div align="center">
 
-# `NAVEEN R`
+# ⚡ NAVEEN R
 
-### Full-Stack Developer • AI/ML Builder • CSE Student
+### Full Stack Developer • AI/ML Explorer • Creative Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+the+future+one+commit+at+a+time.;Full-Stack+Developer+%7C+AI%2FML+Builder;Java+%7C+Python+%7C+JavaScript+%7C+React;Node.js+%7C+Express.js+%7C+SQL+%7C+MongoDB;Currently+building+STELLA+%E2%80%94+Multimodal+AI" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+the+future+with+code;Full+Stack+Web+Developer;AI+%26+Machine+Learning+Explorer;Turning+ideas+into+reality;Welcome+to+my+digital+universe+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/NAVEENSOSUKE">
-<img src="https://komarev.com/ghpvc/?username=NAVEENSOSUKE&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=NAVEENSOSUKE&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
 </a>
 
 <a href="https://github.com/NAVEENSOSUKE?tab=followers">
-<img src="https://img.shields.io/github/followers/NAVEENSOSUKE?style=for-the-badge&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/NAVEENSOSUKE?style=for-the-badge&color=blue&label=Followers" alt="Followers"/>
 </a>
 
 </div>
 
 ---
 
-## ⚡ `SYSTEM.INIT()`
+## 👨‍💻 About Me
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                    NAVEEN.R                         ║
-╠══════════════════════════════════════════════════════╣
-║ ROLE        → Full-Stack Developer / AI Builder     ║
-║ DOMAIN      → Software • AI • ML • Computer Vision  ║
-║ CURRENT     → Building STELLA                      ║
-║ STATUS      → ████████████████████ ONLINE           ║
-║ MODE        → BUILD • LEARN • EXPERIMENT            ║
-╚══════════════════════════════════════════════════════╝
+```javascript
+const naveen = {
+    name: "Naveen R",
+    username: "NAVEENSOSUKE",
+    role: "Full Stack Developer",
+    education: "Computer Science Engineering",
+    interests: [
+        "Web Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Cybersecurity",
+        "Creative UI/UX"
+    ],
+    currentlyLearning: [
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "React",
+        "SQL"
+    ],
+    goal: "Build meaningful technology and never stop learning",
+    mindset: "Learn. Build. Improve. Repeat."
+};
 ```
 
-I'm a Computer Science Engineering student interested in building **full-stack applications, intelligent systems, AI/ML projects and futuristic developer experiences**.
-
-I enjoy turning ideas into working systems — from web applications and APIs to computer vision and multimodal AI.
+> 🚀 A passionate Computer Science Engineering student exploring full-stack development, AI, and creative technology.
 
 ---
 
-# 🛰️ `CURRENT_MISSION`
+## 🌐 My Developer Universe
 
 <div align="center">
 
-## STELLA
-
-### `Multimodal AI Companion`
-
-**Vision × Voice × Spatial Understanding × AI**
+| 🚀 Area | 🔥 Focus |
+|---|---|
+| Frontend | HTML, CSS, JavaScript, React |
+| Backend | Node.js, Express.js |
+| Database | SQL, MongoDB |
+| Programming | Java, Python, JavaScript |
+| AI / ML | Machine Learning, Computer Vision |
+| Tools | Git, GitHub, VS Code |
+| Interests | Cybersecurity, UI/UX, Innovation |
 
 </div>
 
-STELLA is my ongoing experimental AI system focused on creating a more natural interaction between humans and computers.
-
-```text
-Camera
-   │
-   ▼
-Perception Engine
-   │
-   ▼
-Visual Understanding
-   │
-   ├──── Voice
-   │
-   ├──── Gesture
-   │
-   └──── Context
-          │
-          ▼
-   Spatial Intent Engine
-          │
-          ▼
-      Action Planner
-          │
-          ▼
-        STELLA
-```
-
-> Building intelligent interfaces where interaction feels more natural than clicking buttons.
-
 ---
 
-# 🧠 `TECH_STACK`
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 
 </p>
 
-### Frontend
+### 🌐 Web Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,threejs" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" />
 
 </p>
 
-### Backend
+### ⚙️ Tools & Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-
-</p>
-
-### Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-</p>
-
-### AI / ML / Computer Vision
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-
-</p>
-
-### Tools & DevOps
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,arduino,figma" />
 
 </p>
 
 ---
 
-# 🚀 `FEATURED_PROJECTS`
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🛰️ STELLA
-
-**Multimodal AI Companion**
-
-```text
-React
-Three.js
-Node.js
-Voice
-Computer Vision
-Spatial AI
-```
-
-A futuristic AI interface combining voice, vision, gesture recognition and contextual interaction.
-
-**Focus**
-
-* Multimodal interaction
-* Spatial intent
-* Voice pipeline
-* Visual understanding
-* AI action engine
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🧬 SUPER-ENHANCER
-
-**Genomic ML System**
-
-```text
-Python
-XGBoost
-Machine Learning
-Genomics
-Flask
-```
-
-An experimental machine-learning pipeline for predicting biological super-enhancer relationships.
-
-**Focus**
-
-* Biological datasets
-* Feature engineering
-* Model evaluation
-* Genomic analysis
-* ML experimentation
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 👁️ AI ATTENDANCE
-
-**Computer Vision Attendance System**
-
-```text
-Python
-CNN
-Computer Vision
-Face Recognition
-```
-
-An experimental attendance system using computer vision to identify students.
-
-**Focus**
-
-* Face recognition
-* Image processing
-* CNN
-* Automated attendance
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌐 FULL-STACK LAB
-
-**Web Applications & APIs**
-
-```text
-HTML
-CSS
-JavaScript
-React
-Node.js
-Express.js
-SQL
-MongoDB
-```
-
-A collection of applications and experiments built while learning full-stack development.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💻 `DEVELOPER_TERMINAL`
-
-```bash
-$ whoami
-
-Naveen R
-
-$ cat interests.txt
-
-> Full-Stack Development
-> Artificial Intelligence
-> Machine Learning
-> Computer Vision
-> Backend Engineering
-> Developer Tools
-> Experimental UI/UX
-
-$ current_project
-
-STELLA
-
-$ next_target
-
-Build → Break → Learn → Improve → Repeat
-
-$ status
-
-ONLINE ████████████████████
-```
-
----
-
-# 📊 `GITHUB_ANALYTICS`
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NAVEENSOSUKE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<a href="https://github.com/NAVEENSOSUKE">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAVEENSOSUKE&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NAVEENSOSUKE&repo=NAVEENSOSUKE&theme=tokyonight&hide_border=true" />
+
+</a>
 
 </div>
+
+### 🧠 AI & Machine Learning
+
+- 🔬 Super-Enhancer Predictor
+- 🤖 Computer Vision Projects
+- 📊 Machine Learning Experiments
+
+### 🌐 Full Stack Development
+
+- 🚀 Modern Web Applications
+- 🔐 Secure Backend APIs
+- 🎨 Interactive User Interfaces
+
+> More projects coming soon...
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/NAVEENSOSUKE/NAVEENSOSUKE/gh-pages/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 <br>
+
+<img src="https://raw.githubusercontent.com/NAVEENSOSUKE/NAVEENSOSUKE/gh-pages/github-contribution-grid-snake-dark.svg" alt="Dark Contribution Snake" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NAVEENSOSUKE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAVEENSOSUKE&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -299,92 +162,64 @@ ONLINE ████████████████████
 
 ---
 
-# 🐍 `CONTRIBUTION_MATRIX`
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NAVEENSOSUKE/NAVEENSOSUKE/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://github-profile-trophy.vercel.app/?username=NAVEENSOSUKE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 </div>
 
 ---
 
-# 📈 `ACTIVITY`
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NAVEENSOSUKE&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NAVEENSOSUKE&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-# 🏆 `ACHIEVEMENTS`
+## 🎯 Current Goals
+
+```text
+[✓] Learn Programming Fundamentals
+[✓] Explore Web Development
+[→] Master JavaScript
+[→] Build Full Stack Applications
+[→] Explore AI & Machine Learning
+[→] Improve Problem Solving
+[→] Build Real-World Projects
+[→] Become a Professional Developer
+```
+
+---
+
+## 🌌 Developer Philosophy
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NAVEENSOSUKE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+### "The future belongs to those who build it."
+
+💻 Code with purpose  
+🧠 Learn continuously  
+🚀 Build fearlessly  
+🔥 Never stop improving  
 
 </div>
 
 ---
 
-# 🧪 `CURRENTLY_LEARNING`
-
-```text
-┌───────────────────────────────────────────────────┐
-│                                                   │
-│  ███████████████████░░  Full-Stack Development   │
-│  █████████████████░░░░  Backend Engineering       │
-│  ████████████████░░░░░  AI / ML                  │
-│  ███████████████░░░░░░  Computer Vision          │
-│  █████████████░░░░░░░░  DevOps / Docker          │
-│  ████████████░░░░░░░░░  System Design             │
-│                                                   │
-└───────────────────────────────────────────────────┘
-```
-
----
-
-# 🔭 `2026_OBJECTIVES`
-
-```text
-[✓] Strengthen Java
-[✓] Learn full-stack development
-[✓] Build AI/ML projects
-[✓] Experiment with computer vision
-[ ] Build larger production-ready applications
-[ ] Contribute to open source
-[ ] Deploy more projects
-[ ] Build something people actually use
-```
-
----
-
-# 🌌 `NAVEEN.OS`
+## 📫 Connect With Me
 
 <div align="center">
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│              KEEP BUILDING.                 │
-│                                              │
-│              KEEP LEARNING.                 │
-│                                              │
-│              KEEP EXPERIMENTING.            │
-│                                              │
-│                    ✦                         │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
-### `> The best projects start as crazy ideas.`
-
-<br>
 
 <a href="https://github.com/NAVEENSOSUKE">
-<img src="https://img.shields.io/badge/GitHub-NAVEENSOSUKE-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-NAVEENSOSUKE-181717?style=for-the-badge&logo=github" />
+
 </a>
 
 </div>
@@ -393,8 +228,8 @@ ONLINE ████████████████████
 
 <div align="center">
 
-### `SYSTEM STATUS: ONLINE`
+### ⚡ Thanks for visiting my profile!
 
-**Thanks for visiting my profile. 🚀**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 </div>
