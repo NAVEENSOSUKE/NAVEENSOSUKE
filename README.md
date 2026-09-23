@@ -1,21 +1,14 @@
-
 <div align="center">
 
 # ⚡ NAVEEN R
 
 ### Full Stack Developer • AI/ML Explorer • Creative Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+the+future+with+code;Full+Stack+Web+Developer;AI+%26+Machine+Learning+Explorer;Turning+ideas+into+reality;Welcome+to+my+digital+universe+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+the+future+with+code;Full+Stack+Developer+in+Progress;AI+%26+Machine+Learning+Explorer;Turning+ideas+into+reality;Welcome+to+my+digital+universe" alt="Typing SVG" />
 
 <br>
 
-<a href="https://github.com/NAVEENSOSUKE">
-<img src="https://komarev.com/ghpvc/?username=NAVEENSOSUKE&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/NAVEENSOSUKE?tab=followers">
-<img src="https://img.shields.io/github/followers/NAVEENSOSUKE?style=for-the-badge&color=blue&label=Followers" alt="Followers"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=NAVEENSOSUKE&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -29,6 +22,7 @@ const naveen = {
     username: "NAVEENSOSUKE",
     role: "Full Stack Developer",
     education: "Computer Science Engineering",
+
     interests: [
         "Web Development",
         "Artificial Intelligence",
@@ -36,6 +30,7 @@ const naveen = {
         "Cybersecurity",
         "Creative UI/UX"
     ],
+
     currentlyLearning: [
         "JavaScript",
         "Node.js",
@@ -43,27 +38,28 @@ const naveen = {
         "React",
         "SQL"
     ],
-    goal: "Build meaningful technology and never stop learning",
+
+    goal: "Build meaningful technology",
     mindset: "Learn. Build. Improve. Repeat."
 };
 ```
 
-> 🚀 A passionate Computer Science Engineering student exploring full-stack development, AI, and creative technology.
+> 🚀 Computer Science Engineering student exploring full-stack development, AI, and creative technology.
 
 ---
 
-## 🌐 My Developer Universe
+## 🌐 Developer Universe
 
 <div align="center">
 
-| 🚀 Area | 🔥 Focus |
+| 🚀 Area | 🔥 Technologies |
 |---|---|
 | Frontend | HTML, CSS, JavaScript, React |
 | Backend | Node.js, Express.js |
 | Database | SQL, MongoDB |
 | Programming | Java, Python, JavaScript |
 | AI / ML | Machine Learning, Computer Vision |
-| Tools | Git, GitHub, VS Code |
+| Tools | Git, GitHub, VS Code, Docker |
 | Interests | Cybersecurity, UI/UX, Innovation |
 
 </div>
@@ -75,54 +71,50 @@ const naveen = {
 ### 💻 Programming Languages
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
-
 </p>
 
 ### 🌐 Web Development
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" />
-
 </p>
 
 ### ⚙️ Tools & Technologies
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,arduino,figma" />
-
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🧠 Super-Enhancer Predictor
 
-<a href="https://github.com/NAVEENSOSUKE">
+- Machine Learning and bioinformatics project
+- Biological feature analysis
+- Predictive modeling experiments
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NAVEENSOSUKE&repo=NAVEENSOSUKE&theme=tokyonight&hide_border=true" />
+### 🌌 Stella — Spatial AI Companion
 
-</a>
+- Multimodal AI interaction
+- Voice and vision integration
+- Spatial intent understanding
+- Modern glassmorphism interface
 
-</div>
+### 📸 Class Bunking Detector
 
-### 🧠 AI & Machine Learning
+- Computer Vision project
+- Face recognition
+- Attendance monitoring concept
 
-- 🔬 Super-Enhancer Predictor
-- 🤖 Computer Vision Projects
-- 📊 Machine Learning Experiments
+### 🌐 Full Stack Applications
 
-### 🌐 Full Stack Development
-
-- 🚀 Modern Web Applications
-- 🔐 Secure Backend APIs
-- 🎨 Interactive User Interfaces
-
-> More projects coming soon...
+- Modern web interfaces
+- Backend APIs
+- Database integration
+- Interactive user experiences
 
 ---
 
@@ -130,11 +122,7 @@ const naveen = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NAVEENSOSUKE/NAVEENSOSUKE/gh-pages/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/NAVEENSOSUKE/NAVEENSOSUKE/gh-pages/github-contribution-grid-snake-dark.svg" alt="Dark Contribution Snake" />
+<img src="https://raw.githubusercontent.com/NAVEENSOSUKE/NAVEENSOSUKE/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
@@ -144,9 +132,9 @@ const naveen = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NAVEENSOSUKE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=NAVEENSOSUKE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAVEENSOSUKE&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAVEENSOSUKE&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 
 </div>
 
@@ -156,7 +144,7 @@ const naveen = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=NAVEENSOSUKE&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=NAVEENSOSUKE&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -166,7 +154,15 @@ const naveen = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NAVEENSOSUKE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+🚀 Building projects
+
+💻 Learning new technologies
+
+🧠 Exploring Artificial Intelligence
+
+🔥 Improving coding consistency
+
+🌐 Growing as a developer
 
 </div>
 
@@ -176,9 +172,15 @@ const naveen = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NAVEENSOSUKE&theme=tokyo-night&hide_border=true" width="100%" />
+**My GitHub Journey**
 
 </div>
+
+- 📌 Exploring open-source development
+- 🚀 Building personal projects
+- 🧠 Learning new programming concepts
+- 🔧 Improving development skills
+- 📚 Working toward consistent contributions
 
 ---
 
@@ -203,10 +205,13 @@ const naveen = {
 
 ### "The future belongs to those who build it."
 
-💻 Code with purpose  
-🧠 Learn continuously  
-🚀 Build fearlessly  
-🔥 Never stop improving  
+💻 Code with purpose
+
+🧠 Learn continuously
+
+🚀 Build fearlessly
+
+🔥 Never stop improving
 
 </div>
 
@@ -218,7 +223,7 @@ const naveen = {
 
 <a href="https://github.com/NAVEENSOSUKE">
 
-<img src="https://img.shields.io/badge/GitHub-NAVEENSOSUKE-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-NAVEENSOSUKE-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 
 </a>
 
@@ -230,6 +235,6 @@ const naveen = {
 
 ### ⚡ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
